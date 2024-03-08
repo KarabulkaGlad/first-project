@@ -1,5 +1,11 @@
-body{
-  margin: 0;
+* {
+  box-sizing: border-box;
+}
+
+.page{
+  margin: 0 auto;
+  max-width: 1280px;
+  min-height: 300px;
   font-family: 'Times New Roman', Times, serif;
 }
 
